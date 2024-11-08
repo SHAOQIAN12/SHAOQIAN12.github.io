@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="text-align: center;">
-  <img src="/images/myfootprint.png" alt="World Map with Academic Footprints" style="max-width: 100%; height: auto;">
+  <img src="/images/my_figure.png" alt="World Map with Academic Footprints" style="max-width: 100%; height: auto;">
 </div>
 
 <!-- ## Academic Journey
