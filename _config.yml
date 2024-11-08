@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a PhD student at Singapore Management University, advised by Prof. Shih-Fen Cheng, my research interests lie in the intersection of Reinforcement Learning and Optimization."
   location         : "Singapore"
   employer         : "Singapore Management University"
   uri              : # URL
