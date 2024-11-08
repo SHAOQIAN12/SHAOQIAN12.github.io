@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "SHAO Qian / PhD Candidate"
+title                    : "SHAO Qian"
 title_separator          : "-"
 name                     : &name "SHAO Qian"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "Qianshao.jpg"
   name             : "SHAO Qian"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student at Singapore Management University, advised by Prof. Shih-Fen Cheng, my research interests lie in the intersection of Reinforcement Learning and Optimization."
+  bio              : "Fifth-year PhD candidate"
   location         : "Singapore"
   employer         : "Singapore Management University"
   uri              : # URL
