@@ -9,7 +9,7 @@ author_profile: true
   <img src="/images/myfootprint.png" alt="World Map with Academic Footprints" style="max-width: 100%; height: auto;">
 </div>
 
-## Academic Journey
+<!-- ## Academic Journey
 
 * **Singapore (2020-Present)**
   * PhD Student at Singapore Management University
@@ -26,4 +26,4 @@ author_profile: true
   * Bachelor's in Information Management and Information Systems
 
 ## Conference Attendance
-[List your conference attendances here] 
+[List your conference attendances here]  -->
