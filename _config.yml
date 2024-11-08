@@ -258,6 +258,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _footprint
+  - scope:
+      path: ""
+      type: footprint
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
@@ -324,10 +333,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-# Site Navigation
-navbar-links:
-  About Me: "about"
-  # ... other links ...
-  Footprint: "footprint"

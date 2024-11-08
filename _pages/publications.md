@@ -19,7 +19,7 @@ author_profile: true
 
 We explore imitation learning in scenarios where expert behavior is influenced by both rewards and constraints, introducing methods such as Lagrangian, meta-gradient, and cost violation-based approaches to address trajectory cost constraints, with empirical results showing that the meta-gradient-based approach outperforms existing methods in accurately imitating cost-constrained behaviors
 
-▶ **Key Components**
+<!-- ▶ **Key Components** -->
 
 <div class="row">
   <div class="col-md-12">
@@ -30,7 +30,7 @@ We explore imitation learning in scenarios where expert behavior is influenced b
 ## ⭐ Preference-Aware Delivery Planning for Last-Mile Logistics
 
 Our research addresses the challenge of optimizing last-mile logistics delivery routes, proposing a hierarchical route optimizer with learnable parameters that integrates op- timization and machine learning to bridge the gap between optimized routes and practitioner-preferred routes, which often arise from differing priorities.
-▶ **System Architecture**
+<!-- ▶ **System Architecture** -->
 
 <div class="row">
   <div class="col-md-12">
@@ -43,7 +43,7 @@ Our research addresses the challenge of optimizing last-mile logistics delivery 
 
 Our research tackles Early Rumor Detection (EARD) by predicting the earliest point to assess a claim’s truthfulness from social media. A lightweight agent analyzes time-series data while an LLM detects rumors, using a Markov Decision Process (MDP) with expert trajectories. 
 
-▶ **System Architecture**
+<!-- ▶ **System Architecture** -->
 
 <div class="row">
   <div class="col-md-12">
