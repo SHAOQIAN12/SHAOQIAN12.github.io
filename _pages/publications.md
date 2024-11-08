@@ -23,7 +23,7 @@ We explore imitation learning in scenarios where expert behavior is influenced b
 
 <div class="row">
   <div class="col-md-12">
-    <img src="/images/Imitation Learning.png" alt="Imitation Learning Framework" class="img-responsive">
+    <img src="/images/Imitation.png" alt="Imitation Learning Framework" class="img-responsive">
   </div>
 </div>
 
