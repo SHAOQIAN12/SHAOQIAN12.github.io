@@ -44,5 +44,8 @@ redirect_from:
 * National Scholarship, Jilin University, 2019
 
 ## Publications
-
+* Qian Shao, Pradeep Varakantham, and Shih-Fen Cheng, “[Imitating Cost Constrained Behaviors in Reinforcement Learning]( https://arxiv.org/abs/2403.17456)”, The International Conference on Automated Planning and Scheduling(ICAPS), June 2024, full research paper.
+* Qian Shao and Shih-Fen Cheng, “[Preference-Aware Delivery Planning for Last-Mile Logistics](https://arxiv.org/abs/2303.04333)”, The 22nd International Conference on Autonomous Agents and Multiagent Systems(AAMAS), June 2023, full research paper.
+* Qian Shao, Varakantham Pradeep, and Shih-Fen Cheng, “[Cost Constrained Imitation Learning](https://alaworkshop2023.github.io/papers/ALA2023_paper_12.pdf)”, Adaptive and Learning Agents Workshop at AAMAS(ALA), June 2023, workshop paper.
+* Ling Cheng, Qian Shao<sup>*</sup>, Fengzhu Zeng, and Feida Zhu, “A Full-History Network Dataset for BTC Asset Decentralization Profiling”, 2024 IEEE International Conference on Big Data(IEEE BigData), December 2024, full research paper.
 
