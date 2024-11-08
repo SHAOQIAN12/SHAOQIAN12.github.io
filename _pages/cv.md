@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2025 (expected)
-* M.S. in Management Science and Engineering, GitHub University, 2020
-* B.S. in Information Management and Information System, Nanjing Agricultural University, 2017
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D. in Computer Science, Singapore Management University, 2025 (expected)
+  * Supervisor: Prof. Shih-Fen Cheng
+  * Research: Reinforcement Learning and Optimization
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* M.S. in Management Science and Engineering, Jilin University, 2020
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Information Management and Information Systems, Nanjing Agricultural University, 2017
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Work Experience
+
+* Dec 2023 - Present: Research Intern
+  * Institute for Infocomm Research, A*STAR
+  * Project: Data-driven Treatment Optimization in Healthcare
+  * Supervisors: Dr. Pavitra Krishnaswamy and Dr. Aung Aye Phyu Phyu
+  * Duties: 
+    * Developing reinforcement learning models for treatment strategies
+    * Analyzing clinical data for healthcare optimization
+
+
+
+## Skills
+
+* Programming Languages: Python, MATLAB
+* Frameworks & Tools: Pytorch, Tensorflow, Scikit-learn, Pandas, Numpy, Scipy, Cplex, Gurobi
+* Research Skills: Machine Learning, Reinforcement Learning, Optimization
+* Languages: English, Chinese
+
+## Awards & Honors
+
+* Presidential Doctoral Fellowship, Singapore Management University, 2023 & 2024
+* National Scholarship, Jilin University, 2019
+
+## Publications
+
+
