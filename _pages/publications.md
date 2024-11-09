@@ -39,19 +39,20 @@ author_profile: true
 
 ## ⭐ Preference-Aware Delivery Planning for Last-Mile Logistics
 
-Our research addresses the challenge of optimizing last-mile logistics delivery routes, proposing a hierarchical route optimizer with learnable parameters that integrates op- timization and machine learning to bridge the gap between optimized routes and practitioner-preferred routes, which often arise from differing priorities.
-
-<!-- <div class="row">
-  <div class="col-md-12">
-    <img src="/images/Last Mile.png" alt="Delivery System Architecture" class="img-responsive">
-  </div> -->
-<div style="text-align: center;">
-  <img src="/images/Last Mile.png" alt="Delivery System Architecture" style="max-width: 70%; height: auto; margin: 20px auto;">
+<div style="display: flex; align-items: center; margin: 20px 0;">
+  <div style="flex: 0 0 50%;">
+    <img src="/images/Last Mile.png" alt="Delivery System Architecture" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 0 0 45%; margin-left: 5%;">
+    <p>Our research addresses the challenge of optimizing last-mile logistics delivery routes, proposing a hierarchical route optimizer with learnable parameters that integrates optimization and machine learning to bridge the gap between optimized routes and practitioner-preferred routes, which often arise from differing priorities.</p>
+  </div>
 </div>
 
 ## ⭐ LLM-based Early Rumor Detection with Imitation Agent
 
-Our research tackles Early Rumor Detection (EARD) by predicting the earliest point to assess a claim's truthfulness from social media. A lightweight agent analyzes time-series data while an LLM detects rumors, using a Markov Decision Process (MDP) with expert trajectories. 
+<!-- Our research tackles Early Rumor Detection (EARD) by predicting the earliest point to assess a 
+claim's truthfulness from social media. A lightweight agent analyzes time-series data while an LLM 
+detects rumors, using a Markov Decision Process (MDP) with expert trajectories. 
 
 <!-- 
 <div class="row">
@@ -59,5 +60,14 @@ Our research tackles Early Rumor Detection (EARD) by predicting the earliest poi
     <img src="/images/Example.png" alt="Delivery System Architecture" class="img-responsive">
   </div> -->
 <div style="text-align: center;">
-  <img src="/images/Example.png" alt="Delivery System Architecture" style="max-width: 70%; height: auto; margin: 20px auto;">
+  <img src="/images/Example.png" alt="Delivery System Architecture" style="max-width: 70%; height: 
+  auto; margin: 20px auto;"> -->
+
+<div style="display: flex; align-items: center; margin: 20px 0;">
+  <div style="flex: 0 0 50%;">
+    <img src="/images/Example.png" alt="Rumor Detection Framework" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 0 0 45%; margin-left: 5%;">
+    <p>Our research tackles Early Rumor Detection (EARD) by predicting the earliest point to assess a claim's truthfulness from social media. A lightweight agent analyzes time-series data while an LLM detects rumors, using a Markov Decision Process (MDP) with expert trajectories.</p>
+  </div>
 </div>
