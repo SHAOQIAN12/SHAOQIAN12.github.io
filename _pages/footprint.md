@@ -5,6 +5,8 @@ permalink: /footprint/
 author_profile: true
 ---
 
+## Footprint 👣
+
 <div style="text-align: center;">
   <img src="/images/my_figure.png" alt="World Map with Academic Footprints" style="max-width: 80%; height: auto; margin: 20px auto;">
 </div>
