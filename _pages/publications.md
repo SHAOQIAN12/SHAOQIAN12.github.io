@@ -61,7 +61,7 @@ detects rumors, using a Markov Decision Process (MDP) with expert trajectories.
   </div> -->
 <!-- <div style="text-align: center;">
   <img src="/images/Example.png" alt="Delivery System Architecture" style="max-width: 70%; height: 
-  auto; margin: 20px auto;"> --> -->
+  auto; margin: 20px auto;"> --> 
 
 <div style="display: flex; align-items: center; margin: 20px 0;">
   <div style="flex: 0 0 50%;">
