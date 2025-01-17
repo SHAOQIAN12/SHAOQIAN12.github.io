@@ -33,7 +33,7 @@ My research interests lie at the intersection of Reinforcement Learning and Opti
 
 ## News 📢
 
-* [Dec 2024] Our Paper "[Early Detection of Malicious Crypto Addresses with Asset Path Tracing and Selection](https://www-computer-org.libproxy.smu.edu.sg/csdl/journal/tk/5555/01/10816091/22Y59zRnes8)" (work with Ling Cheng, Jiashu Pu, Fengzhu Zeng,and Prof. Feida Zhu) is accepted at [IEEE Transactions on Knowledge and Data Engineering (TKDE)]!
+* [Dec 2024] Our Paper "[Early Detection of Malicious Crypto Addresses with Asset Path Tracing and Selection](https://www-computer-org.libproxy.smu.edu.sg/csdl/journal/tk/5555/01/10816091/22Y59zRnes8)" (work with Ling Cheng, Jiashu Pu, Fengzhu Zeng,and Prof. Feida Zhu) is accepted at IEEE Transactions on Knowledge and Data Engineering (TKDE)!
 * [Oct 2024] Our Paper "[A Full-History Network Dataset for BTC Asset Decentralization Profiling](https://arxiv.org/pdf/2411.13603)" (work with Ling Cheng, Fengzhu Zeng,and Prof. Feida Zhu) is accepted at [IEEE BigData 2024](https://bigdataieee.org/bigdata2024/), see you in Washington D.C. in December!
 * [Sep 2024] Started internship at Institute for Infocomm Research, A*STAR
 * [Aug 2024] I am  awarded the SMU Presidential Doctoral Fellowship in the Academic Year 2024/2025.
