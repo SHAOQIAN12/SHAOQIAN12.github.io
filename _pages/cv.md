@@ -19,18 +19,6 @@ redirect_from:
 
 * B.S. in Information Management and Information Systems, Nanjing Agricultural University, 2017
 
-## Work Experience
-
-* Dec 2023 - Present: Research Intern
-  * Institute for Infocomm Research, A*STAR
-  * Project: Data-driven Treatment Optimization in Healthcare
-  * Supervisors: Dr. Pavitra Krishnaswamy and Dr. Aung Aye Phyu Phyu
-  * Duties: 
-    * Developing reinforcement learning models for treatment strategies
-    * Analyzing clinical data for healthcare optimization
-
-
-
 ## Skills
 
 * Programming Languages: Python, MATLAB
