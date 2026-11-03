@@ -20,14 +20,6 @@ My work connects sequential decision-making, post-training, and inference-time c
 
 ## Selected Research
 
-### VeriFocus: Hierarchical RL for Evidence-Grounded Search and Reasoning
-
-Co-first-author manuscript under review. A hierarchical agent combines check-worthy cue selection with a Qwen3-8B verifier trained using GRPO and LoRA, achieving 0.697 macro-F1 on BreakNews in a few-shot setting.
-
-### Right Before Wrong: Stopping Overthinking in Evidence-Based Claim Verification
-
-Ongoing research on an offline IQL controller that learns when a frozen LLM should stop or continue reasoning, with primal-dual constraints for reliability and inference cost.
-
 ### Early Rumor Detection: Learning When a Frozen LLM Should Decide
 
 Co-first-author work accepted at KDD 2026. A lightweight imitation-learning policy learns when to stop reading while balancing accuracy, earliness, and stability.

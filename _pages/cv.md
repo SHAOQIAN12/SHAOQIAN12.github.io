@@ -32,10 +32,6 @@ redirect_from:
 
 ## Selected Research
 
-* **VeriFocus: Hierarchical RL for Evidence-Grounded Search and Reasoning** | Co-first author, manuscript under review
-  * Hierarchical cue selection and verifier post-training with PPO, GRPO, and LoRA; 0.697 macro-F1 on BreakNews in a few-shot setting.
-* **Right Before Wrong: Stopping Overthinking in Evidence-Based Claim Verification** | Ongoing research
-  * Offline IQL stop/continue control over logged reasoning trajectories with primal-dual reliability constraints.
 * **Early Rumor Detection: Learning When a Frozen LLM Should Decide** | KDD 2026, co-first author
   * Multi-expert imitation learning for early stopping across four datasets while balancing accuracy, earliness, and stability.
 
