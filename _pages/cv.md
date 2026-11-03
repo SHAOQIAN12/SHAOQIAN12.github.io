@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,21 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+## Experience
+
+* **Research Scientist**, Singapore Management University, Singapore | Oct 2025 - Present
+  * Research on reinforcement learning for LLM reasoning and agents, including post-training and inference-time control.
+
+## Research Areas and Methods
+
+* **LLM research:** LLM post-training, agentic AI, search-augmented reasoning, adaptive inference
+* **Policy learning:** PPO, GRPO, GAIL, offline RL (IQL)
+* **Optimization:** Constrained RL, Lagrangian and primal-dual methods, MILP, Bayesian optimization
+
 ## Education
 
-* Ph.D. in Computer Science, Singapore Management University, 2025 (expected)
+* Ph.D. in Computer Science, Singapore Management University, Aug 2020 - Jun 2025
   * Supervisor: Prof. Shih-Fen Cheng
   * Research: Reinforcement Learning and Optimization
 
-* M.S. in Management Science and Engineering, Jilin University, 2020
+* M.S. in Management Science and Engineering, Jilin University, Sep 2018 - Jun 2020
 
-* B.S. in Information Management and Information Systems, Nanjing Agricultural University, 2017
+* B.S. in Information Management and Information System, Nanjing Agricultural University, Sep 2013 - Jun 2017
+
+## Selected Research
+
+* **VeriFocus: Hierarchical RL for Evidence-Grounded Search and Reasoning** | Co-first author, manuscript under review
+  * Hierarchical cue selection and verifier post-training with PPO, GRPO, and LoRA; 0.697 macro-F1 on BreakNews in a few-shot setting.
+* **Right Before Wrong: Stopping Overthinking in Evidence-Based Claim Verification** | Ongoing research
+  * Offline IQL stop/continue control over logged reasoning trajectories with primal-dual reliability constraints.
+* **Early Rumor Detection: Learning When a Frozen LLM Should Decide** | KDD 2026, co-first author
+  * Multi-expert imitation learning for early stopping across four datasets while balancing accuracy, earliness, and stability.
+
+## Foundations in Reinforcement Learning and Optimization
+
+* **Constrained Imitation Learning: Learning Policies under Cost Constraints** | ICAPS 2024, first author
+* **Constrained Pricing in Logit-Based Revenue Management** | INFORMS Journal on Computing, 2026, first author
+* **Preference-Aware Delivery Planning for Last-Mile Logistics** | AAMAS 2023, first author
 
 ## Skills
 
 * Programming Languages: Python, MATLAB
-* Frameworks & Tools: Pytorch, Tensorflow, Scikit-learn, Pandas, Numpy, Scipy, Cplex, Gurobi
-* Research Skills: Machine Learning, Reinforcement Learning, Optimization
+* Frameworks and Tools: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, SciPy, CPLEX, Gurobi
+* Research Skills: LLM post-training, agentic AI, reinforcement learning, imitation learning, optimization
 * Languages: English, Chinese
 
 ## Awards & Honors
@@ -31,11 +57,15 @@ redirect_from:
 * Presidential Doctoral Fellowship, Singapore Management University, 2023 & 2024
 * National Scholarship, Jilin University, 2019
 
-## Publications
-* Qian Shao, Pradeep Varakantham, and Shih-Fen Cheng, “[Imitating Cost Constrained Behaviors in Reinforcement Learning]( https://arxiv.org/abs/2403.17456)”, The International Conference on Automated Planning and Scheduling(ICAPS), June 2024, full research paper.
-* Qian Shao and Shih-Fen Cheng, “[Preference-Aware Delivery Planning for Last-Mile Logistics](https://arxiv.org/abs/2303.04333)”, The 22nd International Conference on Autonomous Agents and Multiagent Systems(AAMAS), June 2023, full research paper.
-* Qian Shao, Varakantham Pradeep, and Shih-Fen Cheng, “[Cost Constrained Imitation Learning](https://alaworkshop2023.github.io/papers/ALA2023_paper_12.pdf)”, Adaptive and Learning Agents Workshop at AAMAS(ALA), June 2023, workshop paper.
-* Ling Cheng, Qian Shao<sup>*</sup>, Fengzhu Zeng, and Feida Zhu, “[A Full-History Network Dataset for BTC Asset Decentralization Profiling](https://arxiv.org/pdf/2411.13603)”, 2024 IEEE International Conference on Big Data(IEEE BigData), December 2024, full research paper.
-* Ling Cheng, Feida Zhu, Qian Shao, Jiashu Pu, and Fengzhu Zeng, "[Early Detection of Malicious Crypto Addresses with Asset Path Tracing and Selection](https://www-computer-org.libproxy.smu.edu.sg/csdl/journal/tk/5555/01/10816091/22Y59zRnes8)", IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
+## Selected Publications
+* Qian Shao, Tien Mai, and Shih-Fen Cheng, "Constrained Pricing in Logit-Based Revenue Management", INFORMS Journal on Computing, 2026.
+* Fengzhu Zeng, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, Jing Ma, and Cheng Niu, "LLM-based Few-Shot Early Rumor Detection with Imitation Agent", KDD 2026.
+* Qian Shao, Pradeep Varakantham, and Shih-Fen Cheng, "[Imitating Cost-Constrained Behaviors in Reinforcement Learning](https://arxiv.org/abs/2403.17456)", ICAPS 2024.
+* Qian Shao and Shih-Fen Cheng, "[Preference-Aware Delivery Planning for Last-Mile Logistics](https://arxiv.org/abs/2303.04333)", AAMAS 2023.
+
+## Additional Publications
+* Qian Shao, Varakantham Pradeep, and Shih-Fen Cheng, "[Cost Constrained Imitation Learning](https://alaworkshop2023.github.io/papers/ALA2023_paper_12.pdf)", Adaptive and Learning Agents Workshop at AAMAS, 2023.
+* Ling Cheng, Qian Shao, Fengzhu Zeng, and Feida Zhu, "[A Full-History Network Dataset for BTC Asset Decentralization Profiling](https://arxiv.org/pdf/2411.13603)", IEEE BigData 2024.
+* Ling Cheng, Feida Zhu, Qian Shao, Jiashu Pu, and Fengzhu Zeng, "Early Detection of Malicious Crypto Addresses with Asset Path Tracing and Selection", IEEE TKDE, 2024.
 
 
