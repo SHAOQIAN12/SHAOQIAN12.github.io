@@ -14,12 +14,6 @@ redirect_from:
 * **Research Scientist**, Singapore Management University, Singapore | Oct 2025 - Present
   * Research on reinforcement learning for LLM reasoning and agents, including post-training and inference-time control.
 
-## Research Areas and Methods
-
-* **LLM research:** LLM post-training, agentic AI, search-augmented reasoning, adaptive inference
-* **Policy learning:** PPO, GRPO, GAIL, offline RL (IQL)
-* **Optimization:** Constrained RL, Lagrangian and primal-dual methods, MILP, Bayesian optimization
-
 ## Education
 
 * Ph.D. in Computer Science, Singapore Management University, Aug 2020 - Jun 2025
