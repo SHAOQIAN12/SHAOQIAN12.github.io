@@ -24,17 +24,6 @@ redirect_from:
 
 * B.S. in Information Management and Information System, Nanjing Agricultural University, Sep 2013 - Jun 2017
 
-## Selected Research
-
-* **Early Rumor Detection: Learning When a Frozen LLM Should Decide** | KDD 2026, co-first author
-  * Multi-expert imitation learning for early stopping across four datasets while balancing accuracy, earliness, and stability.
-
-## Foundations in Reinforcement Learning and Optimization
-
-* **Constrained Imitation Learning: Learning Policies under Cost Constraints** | ICAPS 2024, first author
-* **Constrained Pricing in Logit-Based Revenue Management** | INFORMS Journal on Computing, 2026, first author
-* **Preference-Aware Delivery Planning for Last-Mile Logistics** | AAMAS 2023, first author
-
 ## Selected Publications
 * Qian Shao, Tien Mai, and Shih-Fen Cheng, "Constrained Pricing in Logit-Based Revenue Management", INFORMS Journal on Computing, 2026.
 * Fengzhu Zeng, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, Jing Ma, and Cheng Niu, "LLM-based Few-Shot Early Rumor Detection with Imitation Agent", KDD 2026.
