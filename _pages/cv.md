@@ -41,18 +41,6 @@ redirect_from:
 * **Constrained Pricing in Logit-Based Revenue Management** | INFORMS Journal on Computing, 2026, first author
 * **Preference-Aware Delivery Planning for Last-Mile Logistics** | AAMAS 2023, first author
 
-## Skills
-
-* Programming Languages: Python, MATLAB
-* Frameworks and Tools: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, SciPy, CPLEX, Gurobi
-* Research Skills: LLM post-training, agentic AI, reinforcement learning, imitation learning, optimization
-* Languages: English, Chinese
-
-## Awards & Honors
-
-* Presidential Doctoral Fellowship, Singapore Management University, 2023 & 2024
-* National Scholarship, Jilin University, 2019
-
 ## Selected Publications
 * Qian Shao, Tien Mai, and Shih-Fen Cheng, "Constrained Pricing in Logit-Based Revenue Management", INFORMS Journal on Computing, 2026.
 * Fengzhu Zeng, Qian Shao, Ling Cheng, Wei Gao, Shih-Fen Cheng, Jing Ma, and Cheng Niu, "LLM-based Few-Shot Early Rumor Detection with Imitation Agent", KDD 2026.
