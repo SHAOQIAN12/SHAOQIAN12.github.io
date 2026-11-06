@@ -42,7 +42,6 @@ redirect_from:
 * Qian Shao and Shih-Fen Cheng, "[Preference-Aware Delivery Planning for Last-Mile Logistics](https://arxiv.org/abs/2303.04333)", AAMAS 2023.
 
 ## Additional Publications
-* Qian Shao, Varakantham Pradeep, and Shih-Fen Cheng, "[Cost Constrained Imitation Learning](https://alaworkshop2023.github.io/papers/ALA2023_paper_12.pdf)", Adaptive and Learning Agents Workshop at AAMAS, 2023.
 * Ling Cheng, Qian Shao, Fengzhu Zeng, and Feida Zhu, "[A Full-History Network Dataset for BTC Asset Decentralization Profiling](https://arxiv.org/pdf/2411.13603)", IEEE BigData 2024.
 * Ling Cheng, Feida Zhu, Qian Shao, Jiashu Pu, and Fengzhu Zeng, "Early Detection of Malicious Crypto Addresses with Asset Path Tracing and Selection", IEEE TKDE, 2024.
 
